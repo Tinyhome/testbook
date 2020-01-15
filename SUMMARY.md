@@ -9,5 +9,5 @@
 
 ## chapter-2
 
-* [README.md](chapter-2/untitled.md)
+* [README](chapter-2/untitled.md)
 
