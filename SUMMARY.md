@@ -4,8 +4,8 @@
 
 ## part1
 
-* [something](part1/something.md)
 * [README](part1/untitled.md)
+* [something](part1/something.md)
 
 ## part2
 
