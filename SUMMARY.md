@@ -2,13 +2,13 @@
 
 * [Summary](README.md)
 
-## chapter-1
+## part1
 
-* [something](chapter-1/something.md)
-* [README](chapter-1/untitled.md)
+* [something](part1/something.md)
+* [README](part1/untitled.md)
 
-## chapter-2
+## part2
 
-* [README](chapter-2/untitled.md)
-* [something](chapter-2/something.md)
+* [README](part2/untitled.md)
+* [something](part2/something.md)
 
