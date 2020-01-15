@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Summary](README.md)
-* [firstpage](firstpage.md)
 
 ## chapter-1
 
