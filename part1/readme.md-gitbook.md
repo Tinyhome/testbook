@@ -1,2 +1,2 @@
-# README.md\#gitbook
+# gitbook
 
